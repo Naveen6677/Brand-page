@@ -1,5 +1,5 @@
 {
-  "homepage":"http://Naveen6677.github.io/brand-page",
+  "homepage": "http://Naveen6677.github.io/brand-page",
   "name": "brand-page",
   "private": true,
   "version": "0.0.0",
@@ -31,5 +31,3 @@
     "vite": "^6.0.5"
   }
 }
-
-
